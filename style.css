@@ -1,0 +1,32 @@
+body {
+ background-color: white;
+
+}
+
+body{ 
+    font-family:  "sarabun", 'Times New Roman', Times, serif;
+    font-size: 30px;
+
+color:brown;
+width: 960px;
+border: 20px solid #003;
+border-radius: 60px;
+    margin: auto;
+    text-align: center
+    }
+
+
+p{ 
+font-family: "sarabun", 'Times New Roman', Times, serif;
+}
+
+iframe{ border-width:  8px;
+
+}
+
+header {
+    background-color: white;
+    border: 22px
+
+}
+
